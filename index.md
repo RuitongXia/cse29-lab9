@@ -55,7 +55,17 @@ git add .
 git commit -m "update website"
 git push
 
+## Code Block
+
+```bash
+git status
+git add .
+git commit -m "update website"
+git push
+```
+
 ## Image Practice
+
 Here is an image I added using Markdown:
 
-![fd4c6685058f645adea00eebb984012a](./photo.jpg)
+![A photo](./fd4c6685058f645adea00eebb984012a.jpg)

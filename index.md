@@ -68,4 +68,4 @@ git push
 
 Here is an image I added using Markdown:
 
-![A photo](./fd4c6685058f645adea00eebb984012a.jpg)
+![My photo](./fd4c6685058f645adea00eebb984012a.png)

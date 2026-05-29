@@ -17,3 +17,5 @@ This is my first GitHub Pages website for CSE 29 Lab 9.
 **Favorite hobby:** sleeping
 
 [Back to GitHub](https://github.com)
+
+[Read more about me](./about.md)
